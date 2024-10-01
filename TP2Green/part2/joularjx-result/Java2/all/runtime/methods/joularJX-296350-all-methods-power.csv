@@ -1,0 +1,6 @@
+java.lang.ref.Reference.waitForReferencePendingList,0.0000
+java.util.Formatter.parse,1.4457
+java.io.FileOutputStream.writeBytes,23.1307
+java.io.OutputStreamWriter.write,3.1805
+java.io.PrintStream.print,0.8674
+sun.nio.cs.StreamEncoder.implFlushBuffer,0.2891

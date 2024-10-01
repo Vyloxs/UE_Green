@@ -1,0 +1,2 @@
+java.lang.ref.Reference$ReferenceHandler.run;java.lang.ref.Reference.processPendingReferences;java.lang.ref.Reference.waitForReferencePendingList,0.0000
+com.sun.tools.javac.launcher.Main.main;com.sun.tools.javac.launcher.Main.run;com.sun.tools.javac.launcher.Main.execute;java.lang.reflect.Method.invoke;jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke;jdk.internal.reflect.NativeMethodAccessorImpl.invoke;jdk.internal.reflect.NativeMethodAccessorImpl.invoke0;LinkedList2.main;java.util.LinkedList.remove;java.util.LinkedList.node,14.2552
