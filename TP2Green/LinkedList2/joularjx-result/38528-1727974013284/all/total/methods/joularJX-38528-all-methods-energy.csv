@@ -1,0 +1,10 @@
+java.lang.ref.Reference.processPendingReferences,0.0001
+LinkedList2.main,2.3221
+java.util.LinkedList.linkLast,0.5285
+java.lang.invoke.DirectMethodHandle$Holder.invokeStatic,0.5285
+java.util.LinkedList.add,0.5285
+java.lang.ref.Reference.waitForReferencePendingList,0.0129
+java.lang.Integer.getChars,0.5285
+java.util.LinkedList.node,412.3252
+java.util.ImmutableCollections$ListN.get,0.5285
+jdk.internal.misc.Unsafe.park,0.0001

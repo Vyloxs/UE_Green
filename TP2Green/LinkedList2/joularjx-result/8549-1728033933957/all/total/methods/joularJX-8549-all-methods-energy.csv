@@ -1,0 +1,7 @@
+java.lang.ref.Reference.processPendingReferences,0.0001
+java.lang.invoke.DirectMethodHandle$Holder.invokeStatic,0.4102
+java.lang.ref.Reference.waitForReferencePendingList,0.0121
+java.lang.Integer.getChars,0.8204
+java.util.LinkedList.node,1348.1513
+jdk.internal.org.objectweb.asm.Frame.getAbstractTypeFromDescriptor,0.4102
+jdk.internal.misc.Unsafe.park,0.0001

@@ -1,0 +1,6 @@
+java.util.ArrayList.remove,23.8007
+java.lang.invoke.DirectMethodHandle$Holder.invokeStatic,0.6103
+java.lang.ref.Reference.waitForReferencePendingList,0.0148
+ArrayList2.main,1372.3832
+jdk.internal.org.objectweb.asm.Type.getTypeInternal,0.6103
+java.lang.System.arraycopy,2.4411

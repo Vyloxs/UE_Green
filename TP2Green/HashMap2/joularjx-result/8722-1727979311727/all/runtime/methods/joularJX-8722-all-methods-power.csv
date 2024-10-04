@@ -1,0 +1,9 @@
+java.lang.invoke.LambdaForm$MH/0x00007f6f0000c800.invoke,0.0000
+java.lang.invoke.LambdaForm$MH/0x00007f6f0000c000.<clinit>,0.0000
+java.lang.invoke.DirectMethodHandle$Holder.invokeStatic,0.0000
+java.util.HashMap$HashIterator.nextNode,0.0000
+java.lang.Integer.getChars,0.0000
+java.util.HashMap$HashIterator.<init>,0.0000
+java.util.HashMap.hash,0.0000
+java.util.HashMap.resize,0.0000
+java.lang.ref.Reference.waitForReferencePendingList,13.0941

@@ -1,0 +1,13 @@
+LinkedHashMap2Test.InsertElement,25.1284
+java.lang.ref.Reference.waitForReferencePendingList,0.0354
+java.lang.Integer.getChars,20.3421
+java.lang.ref.Reference.getAndClearReferencePendingList,0.0004
+java.lang.Class.isArray,1.1966
+java.lang.StringConcatHelper.newArray,1.1966
+java.util.HashMap.hash,15.5557
+java.lang.invoke.DirectMethodHandle$Holder.invokeStatic,1.1966
+LinkedHashMap2Test.AccessElement,15.5557
+java.util.LinkedHashMap.newNode,1.1966
+LinkedHashMap2Test.RemoveElement,26.3187
+java.util.HashMap.resize,23.9318
+jdk.internal.misc.Unsafe.park,0.0004

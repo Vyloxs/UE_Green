@@ -1,0 +1,14 @@
+java.util.TreeMap.getEntry,18.8311
+java.util.TreeMap.fixAfterInsertion,22.8082
+java.util.TreeMap.successor,5.5250
+java.util.TreeMap.put,88.5765
+java.lang.Integer.stringSize,0.7260
+TreeMap2Test.AccessElement,11.0501
+java.lang.ref.Reference.waitForReferencePendingList,0.0294
+TreeMap2Test.RemoveElement,1.8417
+java.lang.Integer.getChars,9.4916
+java.lang.ref.Reference.getAndClearReferencePendingList,0.0001
+java.lang.invoke.MethodHandleNatives.resolve,0.7260
+java.util.TreeMap.fixAfterDeletion,22.5989
+java.util.TreeMap.deleteEntry,2.4274
+jdk.internal.misc.Unsafe.park,0.0003

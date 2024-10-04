@@ -1,0 +1,3 @@
+ArrayList2Test.main;ArrayList2Test.RemoveElement,15.9506
+java.lang.Thread.dispatchUncaughtException;java.lang.ThreadGroup.uncaughtException;java.lang.ThreadGroup.uncaughtException;java.lang.Throwable.printStackTrace;java.lang.Throwable.printStackTrace;java.lang.Throwable.lockedPrintStackTrace;java.lang.Throwable.getOurStackTrace;java.lang.StackTraceElement.of;java.lang.StackTraceElement.of;java.lang.StackTraceElement.computeFormat;java.lang.StackTraceElement.isHashedInJavaBase,0.2798
+java.lang.ref.Reference$ReferenceHandler.run;java.lang.ref.Reference.processPendingReferences;java.lang.ref.Reference.waitForReferencePendingList,0.0000

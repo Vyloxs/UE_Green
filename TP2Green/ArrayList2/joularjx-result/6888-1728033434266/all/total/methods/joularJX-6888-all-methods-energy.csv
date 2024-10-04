@@ -1,0 +1,11 @@
+ArrayList2Test.RemoveElement,1291.1548
+java.util.ArrayList.remove,22.2682
+ArrayList2Test.InsertElement,0.5302
+java.lang.ref.Reference.waitForReferencePendingList,0.0150
+java.lang.Integer.getChars,1.0604
+java.lang.StringConcatHelper.prepend,0.5302
+java.lang.ref.Reference.getAndClearReferencePendingList,0.0002
+java.lang.StackTraceElement.isHashedInJavaBase,0.4825
+java.lang.System.arraycopy,2.1208
+jdk.internal.misc.Unsafe.allocateUninitializedArray,0.5302
+jdk.internal.misc.Unsafe.park,0.0001

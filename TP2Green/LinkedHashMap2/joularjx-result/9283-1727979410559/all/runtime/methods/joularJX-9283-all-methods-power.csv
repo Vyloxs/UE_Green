@@ -1,0 +1,8 @@
+java.util.LinkedHashMap$LinkedHashIterator.hasNext,0.0000
+java.lang.StringConcatHelper.mix,0.0000
+java.lang.invoke.ClassSpecializer$SpeciesData.<init>,0.0000
+LinkedHashMap2.main,0.0000
+java.lang.Integer.getChars,0.0000
+java.lang.StringConcatHelper.newArray,0.0000
+java.util.HashMap.resize,0.0000
+java.lang.ref.Reference.waitForReferencePendingList,17.8190

@@ -1,0 +1,9 @@
+java.util.TreeMap.getEntry,0.0000
+java.util.TreeMap.fixAfterInsertion,0.0000
+java.util.TreeMap.successor,0.0000
+java.util.TreeMap.put,0.0000
+java.lang.invoke.DirectMethodHandle$Holder.invokeStatic,0.0000
+java.lang.invoke.LambdaForm$Name.withConstraint,0.0000
+java.lang.ref.Reference.waitForReferencePendingList,19.3529
+java.lang.Integer.getChars,0.0000
+java.util.TreeMap.fixAfterDeletion,0.0000

@@ -1,0 +1,17 @@
+java.util.concurrent.locks.AbstractQueuedSynchronizer.acquire,0.3040
+jdk.internal.misc.Unsafe.unpark,0.0000
+WeakHashMap2.main,0.0000
+java.lang.ref.Reference.enqueueFromPending,0.9121
+java.lang.ref.Reference.waitForReferencePendingList,28.2747
+java.lang.Integer.getChars,0.0000
+java.util.WeakHashMap.transfer,0.0000
+java.lang.invoke.MethodHandleNatives.resolve,0.0000
+java.util.WeakHashMap.expungeStaleEntries,0.0000
+java.lang.invoke.DirectMethodHandle$Holder.invokeStatic,0.0000
+java.util.concurrent.locks.ReentrantLock$NonfairSync.initialTryLock,0.3040
+java.util.WeakHashMap.remove,0.0000
+java.lang.Integer.valueOf,0.0000
+java.lang.ref.ReferenceQueue.poll,0.0000
+java.util.WeakHashMap$HashIterator.hasNext,0.0000
+jdk.internal.misc.Unsafe.allocateUninitializedArray,0.0000
+jdk.internal.misc.Unsafe.park,0.3059

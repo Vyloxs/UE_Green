@@ -1,0 +1,4 @@
+WeakHashMap2Test.RemoveElement,0.0000
+java.util.WeakHashMap.getTable,0.0000
+java.lang.ref.Reference.enqueueFromPending,10.2447
+java.lang.ref.Reference.waitForReferencePendingList,40.9789

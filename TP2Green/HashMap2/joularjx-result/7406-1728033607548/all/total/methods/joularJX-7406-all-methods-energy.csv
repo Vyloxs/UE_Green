@@ -1,0 +1,14 @@
+java.util.concurrent.locks.AbstractQueuedSynchronizer$Node.getAndUnsetStatus,1.3058
+java.util.HashMap$HashIterator.nextNode,0.0000
+java.lang.ref.Reference.waitForReferencePendingList,129.2791
+java.lang.Integer.getChars,0.0001
+java.lang.invoke.MethodHandleNatives.resolve,0.0000
+java.util.HashMap.hash,0.0000
+HashMap2Test.InsertElement,0.0001
+java.lang.Integer.valueOf,0.0000
+java.util.HashMap.removeNode,0.0000
+HashMap2Test.AccessElement,0.0000
+HashMap2Test.RemoveElement,0.0001
+java.util.HashMap.resize,0.0001
+jdk.internal.misc.Unsafe.allocateUninitializedArray,0.0000
+jdk.internal.misc.Unsafe.park,1.2228
